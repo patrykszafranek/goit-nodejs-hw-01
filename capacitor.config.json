@@ -1,0 +1,6 @@
+{
+  "appId": "goit.nodejs.hw.01",
+  "appName": "goit-nodejs-hw-01",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}

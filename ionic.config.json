@@ -1,0 +1,7 @@
+{
+  "name": "goit-nodejs-hw-01",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
